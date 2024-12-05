@@ -1,4 +1,4 @@
-package game;
+package com.factoriaf5.rps.application;
 
 public class Player {
     private final String name;
